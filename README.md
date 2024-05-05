@@ -1,6 +1,6 @@
 # Tonge-Image-Classification
 
-Code for Classification for Tongue Image Tri-Dhat based on Thai Traditional Medicine using Transfer Learning Techniques
+Code for Tongue Image Analysis in Traditional Thai Medicine: A Deep Learning Approach
 
 Software: Python 3.6.13 and TensorFlow 2.3.0 with Keras 2.4.0
 
