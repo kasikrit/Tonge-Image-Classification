@@ -1,4 +1,4 @@
-# Tonge-Image-Classification
+# Tonge Image Classification Based on Traditional Thai Medicine Utilizing Deep Learning
 
 ## Manuscript Title 
 Leveraging Transfer Learning for Tri-Dhat Classification of Tongue Images in Traditional Thai Medicine
